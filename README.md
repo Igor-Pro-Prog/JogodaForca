@@ -1,1 +1,5 @@
-### Jogo da Forca Digite uma Palavra ele Dirá se vc acertou ou errou .
+### Jogo da Forca, criado durante a aula de laboratorio de programação.
+
+### Palavra passe: UFCA
+
+
